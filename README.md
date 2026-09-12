@@ -39,4 +39,4 @@ Child:
 Hospital:
 - City Hospital / Dr. Sharma
 
-No backend is required. Mock state is held in React context and the patient's editable profile is persisted to localStorage.
+No backend is required. Mock state is held in React context and the patient's editable profile is persisted to localStorage..
